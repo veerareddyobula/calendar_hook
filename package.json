@@ -1,6 +1,6 @@
 {
   "name": "calendar_hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Its Calendar Hook Sample",
   "main": "index.js",
   "scripts": {
